@@ -104,6 +104,11 @@ CROSS JOIN products p
 
 
 
+-- This is the end of the file for sql joins
+
+
+
+
 
 
 
